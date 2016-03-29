@@ -1,0 +1,3 @@
+@Alice : Hi Bob, are you taking #csc301 this term?
+@Bob :   No Alice, I took it last year
+@Bob : #bestCourseEver!

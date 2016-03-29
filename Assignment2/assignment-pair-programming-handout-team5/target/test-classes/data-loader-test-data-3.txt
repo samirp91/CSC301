@@ -1,0 +1,7 @@
+@john_doe : A Tweet that ends with a few white spaces               
+
+
+
+@john_doe : Also, let's make sure blank lines are ignored.
+@john_doe:Spaces between the username and text are optional.
+@john_doe   :  Spaces between the username and text are ignored.

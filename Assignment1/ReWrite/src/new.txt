@@ -1,0 +1,108 @@
+1,Chunky Chicken,6001 14th Avenue,(905) 294-7575,43.8553051,-79.2569666,www.chunkychicken.com/#!/page_main,Markham,Fusion+North American,$ (entree under $10),Mon-Thurs & Sun: 12pm - 10pm\\Fri-Sat: 12pm - 11pm
+2,Nader's Middle Eastern Grill and Bakery,3900 Grand Park Dr,(905) 276-4444,43.5791978,-79.6466099,www.naders.co/,Mississauga,Afghan+Middle Eastern+North American,$ (entree under $10),Mon-Thurs: 11am - 10pm\\Fri-Sun: 11am - 11pm
+3,Ali Baba Kabab,320 Princess Street,(613) 531-9999,44.2324998,-76.4894716,www.alibabakabab.ca/,Kingston,Middle Eastern,$ (entree under $10),Mon-Thurs & Sat-Sun: 11am - 9pm\\Fri: 11am - 10pm
+4,Kandahar Kabab Scarborough,2307 Markham Road,(416) 609-8666,43.8125438,-79.2423676,www.kandaharkabab.com/,Scarborough,Afghan,$ (entree under $10),Mon-Thurs: 11am - 10:30pm\\Fri-Sun: 11am-11:30am
+5,Black Ox Bistro,1780 Markham Road,(416) 297-5777,43.7954451,-79.2398104,www.blackoxbistro.com/,Scarborough,North American,$$$ (entree $20-30),Mon-Thurs & Sun: 11am - 10pm\\Fri-Sat: 11am - 11pm
+6,Fresh East Mississauga,5100 Erin Mills Pkwy,(905) 607-6111,43.5584079,-79.7120066,www.fresheast.ca/,Mississauga,Fusion+Middle Eastern+North American,$ (entree under $10),Mon-Fri: 10am - 9pm\\Sat: 9:30am - 6pm\\Sun: 11am - 6pm
+7,Xawaash,130 Queens Plate Drive,(416) 747-9222,43.7154337,-79.5928112,www.xawaash.com/,Etobicoke,East African+European+Fusion+Middle Eastern,$ (entree under $10),Everyday: 11am - 10pm
+8,Top Gun Steak,251 Augusta Avenue,(416) 593-2777,43.6550126,-79.4021026,www.topgunsteak.com/,Toronto,North American,$$ (entree $10-20),Everyday: 11am - 11pm
+9,Paramount Fine Foods,6380 Fallsview Blvd,(905) 358-1113,43.0824553,-79.0813004,www.paramountfinefoods.com/,Niagara Falls,Middle Eastern,$$ (entree $10-20),Mon-Thurs & Sun: 8am - 10pm\\Fri-Sat: 8am - 11pm
+10,Canephora Cafe and Bakery,222 Finch Avenue,(647) 350-4080,43.7757435,-79.4346948,www.canephora.ca/,Toronto,North American,$ (entree under $10),Mon-Thurs: 7am - 10pm\\Fri: 7am - 11pm\\Sat: 8am - 11pm\\Sun: 8am - 10pm
+11,East Meats West,2399 Cawthra Rd Unit 31,(905) 279-0361,43.5910466,-79.5948133,www.eastmeatswesthalal.com/,Mississauga,North American,$ (entree under $10),Mon: Closed\\Tues - Thurs: 10am - 8pm\\Fri: 3pm - 8pm\\Sat: 10am - 6pm\\Sun: 11am - 3pm
+12,Pizza La Rosa,2555 Victoria Park Avenue #19,(416) 551-7672,43.7729171,-79.3214472,www.pizzalarosa.ca/,Scarborough,European+Italian,$ (entree under $10),Mon-Fri: 10:30am - 10pm\\Sat-Sun: 12pm - 10pm
+13,Curry & Co,10 Dundas Street East,(416) 591-7544,43.6564397,-79.3806859,www.10dundaseast.com/stores/10dundaseast-curry-co,Toronto,South Asian,$ (entree under $10),Mon-Sat: 11am - 9pm\\Sun: 12pm - 8pm
+14,Chill Cafe,2183 Danforth Avenue,(416) 546-6647,43.6862567,-79.3099942,www.chillcafe.ca/,Toronto,Fusion,$ (entree under $10),Mon-Thurs: 1pm -2am\\Fri-Sat: 1pm - 3:30am\\Sun: 1pm - 2am
+15,Kal & Mooy Somalian Gourmet,238 Queen Street West,(647) 463-4626,43.6501306,-79.3904119,www.kalandmooy.com/,Toronto,East African,$ (entree under $10),Mon-Fri: 10am - 8pm\\Sat: 10am - 7pm\\Sun: 11am - 5pm
+16,Perfect Bite,4525 Ebenezer Rd. Unit #9,(905) 913-9666,43.7725503,-79.6612215,www.perfectbite.ca/,Brampton,East Asian+European+Italian+North American,$ (entree under $10),Mon-Thurs: 11am - 9:30pm\\Fri: 11am - 10pm\\Sat: 12pm - 10pm\\Sun: Closed
+17,Slice of New York,64 Edward St,(416) 977-4424,43.6566442,-79.3836681,www.facebook.com/sliceofnewyork.ca,Toronto,European+North American,$ (entree under $10),Mon-Thurs: 11:30am - 12am\\Fri-Sat: 11:30am - 1am\\Sun: 11:30am - 11pm
+18,Kabul Express,126 Dundas Street East,(647) 351-1111,43.6567816,-79.3764179,www.kabulexpress.ca/,Toronto,Afghan,$ (entree under $10),Mon-Fri: 11am - 2am\\Sat-Sun: 12pm - 2am
+19,College Falafel,450 Ossington Avenue,(416) 532-8698,43.6545661,-79.4229029,www.collegefalafel.com/,Toronto,Middle Eastern,$ (entree under $10),Mon-Thurs: 10am - 10pm\\Fri: 10am - 3am\\Sat: 12pm - 3am\\Sun: Closed
+20,Ali's West Indian Roti Shop,1446 Queen Street West,(416) 532-7701,43.6408507,-79.4359443,www.alisroti.ca/,Toronto,Caribbean+South American,$ (entree under $10),Everyday: 11am - 10pm
+21,Studio 89,1065 Canadian Place,(647) 400-0455,43.6278289,-79.6271285,www.studio89.org/,Mississauga,North American,$ (entree under $10),Mon-Thurs: 10am - 10pm\\Fri: 10am - 11pm\\Sat: 12pm - 11pm\\Sun: 12pm - 9pm
+22,Watan Kabob,55 Matheson Blvd East,(905) 712-2221,43.6196434,-79.6697667,www.watankabob.com/,Mississauga,Afghan,$ (entree under $10),Everyday: 11am - 11pm
+23,Hwy 55,548 Trafalgar Road,(905) 337-3434,43.4578592,-79.6817526,www.hwy55.com/,Hamilton,North American,$$ (entree $10-20),Mon-Thurs & Sun: 11:30am - 10pm\\Fri-Sat: 11:30am - 10:30pm
+24,D Spot Dessert Cafe and Bistro,51 Lebovic Avenue,(647) 349-7746,43.7243367,-79.2902658,www.dspotdessert.com/,Scarborough,Specialty,$$ (entree $10-20),Mon-Thurs & Sun: 1pm - 12am\\Fri-Sat: 1pm - 2am
+25,Malaysia Grill,8 Washington St.,(289) 554-1128,43.8747964,-79.2588783, ,Markham,East Asian,$ (entree under $10),Timings Not Available
+26,A La Crepes,2761 Markham Rd.,(647) 352-9466,43.8213037,-79.2462887,www.alacrepes.com/,Scarborough,Fusion+Specialty,$ (entree under $10),Mon-Fri: 12pm - 11pm\\Sat-Sun: 10am - 1am
+27,Melt Grilled Cheese,1515 Birchmount Road,(416) 551-6070,43.758688,-79.2889502,www.meltwich.ca/,Scarborough,North American,$ (entree under $10),Mon-Thurs: 11am - 9pm\\Sat-Sun: 11am - 10pm\\Sun: 12pm - 8pm
+28,Haze Lounge,4230 Sherwoodtowne Blvd.,(905) 272-5357,43.5997436,-79.6401399,www.hazelounge.ca/,Mississauga,Fusion+Specialty,$$ (entree $10-20),Mon-Thurs: 6pm - 1:30am\\Fri: 6pm - 2:30am\\Sat: 11am - 2:30am\\Sun: 11am - 1:30am
+29,Licken Chicken and Seafood,25 Overlea Blvd.,(416) 421-4111,43.7048682,-79.3498238,www.lickenchicken.ca/,Toronto,North American,$ (entree under $10),Mon-Thurs & Sun: 11am - 11pm\\Fri-Sat: 11am - 12am
+30,Marrakech Restaurant,1450 Danforth Avenue,(416) 462-3222,43.6829336,-79.3263672,www.marrakechrestaurant.ca/,Toronto,North African,$$ (entree $10-20),Mon: Closed\\Tues-Thurs: 5pm - 10pm\\Fri: 5pm - 11pm\\Sat: 4pm - 11pm\\Sun: 4pm - 10pm
+31,Charcoal Kebab House,3256 Lawrence Avenue East ,(647) 352-4550,43.7569776,-79.2387396, ,Scarborough,East Asian,$$ (entree $10-20),Everyday: 4pm - 10pm
+32,The Pie Guyz,25 Peel Centre Dr,(647) 201-8851,43.7153303,-79.7210902,www.thepieguyz.com/,Brampton,European+Specialty,$ (entree under $10),Timings Not Available
+33,The Pie Guyz,2120 North Park Drive,(647) 201-8851,43.7502911,-79.7267135,www.thepieguyz.com/,Brampton,European+Specialty,$ (entree under $10),Mon-Fri: 9am - 8pm\\Sat: 10am - 6pm\\Sun: Closed
+34,Asian Wok 'n' Roll,2909 Derry Road East,(905) 671-8997,43.7037828,-79.6433739,www.asianwoknroll.com/,Mississauga,East Asian+Fusion,$ (entree under $10),Mon-Fri: 11:30am - 10pm\\Sat-Sun: 12am - 10pm
+35,Asian Wok 'n' Roll,6905 Millcreek Drive #13,(905) 567-0088, 43.5958401,-79.7565967,www.asianwoknroll.com/,Mississauga,East Asian+Fusion,$ (entree under $10),Mon-Thurs: 11:30am - 10pm\\Fri-Sat: 11:30am - 11pm\\Sun: 12pm - 10pm
+36,Cinamon Indian Bistro,1966 Queen St. East,(416) 519-4534,43.6697608,-79.3017432,www.cinamonindianbistro.com/,Toronto,South Asian,$$ (entree $10-20),Mon: 4pm - 10pm\\Tue-Sun: 12pm - 3pm & 5pm - 10pm
+37,Cyrus Restaurant,563 Durham Regional Rd 16,(905) 448-0892,43.8851516,-78.8469195,www.cyrusrestaurant.ca/,Oshawa,Middle Eastern,$$ (entree $10-20),Mon & Sun: Closed\\Tues-Fri: 11am - 8pm\\Sat: 12pm - 8pm
+38,Spicy Garden,4810 Sheppard Avenue East Unit #220,(416) 298-6980,43.7916033,-79.2507656,www.spicy-garden.ca/,Scarborough,East Asian,$ (entree under $10),Mon-Thurs: 11:30am - 10:30pm\\Fri: 11:30am - 11pm\\Sat-Sun: 12:30pm - 10:30pm
+39,Pizza Express Plus,1812 Simcoe Street North,(905) 576-2626,43.9430075,-78.8889832,www.expresspizzaplus.ca/,Oshawa,North American,$ (entree under $10),Everyday: 11:30am - 12:30am
+40,El-Sabil,2680 Lawrence Avenue East,(416) 750-2334,43.7523215,-79.2623908, ,Scarborough,Middle Eastern,$ (entree under $10),Everyday: 11am - 10pm
+41,Pita Land,314 Harwood Avenue,(905) 239-7721,43.8453915,-79.0193227,www.pitaland.ca,Ajax,Middle Eastern,$$ (entree $10-20),Mon-Wed & Sun: 11am - 12am\\Thurs-Sat: 11am - 1am
+42,Zestee Chicken and Pizza,3007 Sheppard Avenue East,(416) 492-5999,43.7763464,-79.3181196,www.facebook.com/ZesteeChicken,Scarborough,Fusion+North American,$ (entree under $10),Mon-Thurs: 12pm - 1am\\Fri-Sat: 12pm - 2am\\Sun: 12pm - 12am
+43,Tasty Shawarma,7677 Markham Road,(647) 435-3815,43.853137,-79.2548729,www.facebook.com/TastyShawarmaAndFalafel,Scarborough,Middle Eastern,$ (entree under $10),Mon-Thurs & Sat-Sun: 11am - 11:15pm\\Fri: 11am - 11:45pm
+44,Sizzloz Flame Grilled Chicken,5606 Tenth Line W,(905) 814-8100,43.5580979,-79.7407015,www.sizzloz.com/,Mississauga,European,$ (entree under $10),Mon-Thurs: 11am - 10pm\\Fri: 11am - 11pm\\Sat: 12pm - 11pm\\Sun: 12pm - 10pm
+45,Maimana Naan & Kebab,279 Kingston Rd E #7,(905) 239-9292,43.8634331,-79.0124702,www.maimanarestaurant.com/,Ajax,Afghan,$$ (entree $10-20),Mon-Thurs & Sun: 12pm - 10pm\\Fri-Sat:12pm - 11pm
+46,Naan & Kabob,1801 Lawrence Avenue E,(416) 285-8191,43.7431355,-79.3047395,www.naanandkabob.ca/,Scarborough,Afghan,$ (entree under $10),Everyday: 11:30am - 11pm
+47,Karachi Kitchen,6560 Meadowvale Town Centre Cir,(905) 821-7700,43.5800589,-79.7581386,www.karachikitchen.com/,Mississauga,South Asian,$ (entree under $10),Mon-Thurs: 11am - 10pm\\Fri-Sat:11am - 11pm
+48,Somethin 2 Talk About,78 Gerrard St W.,(416) 260-1752,43.6584783,-79.3854255, ,Toronto,North American,$ (entree under $10),Mon-Fri: 8am - 4pm\\Sat-Sun: Closed
+49,The Burgernator,269 Augusta Avenue,(647) 748-0990,43.6556342,-79.4024449,www.theburgernator.com/,Toronto,North American,$ (entree under $10),Mon-Wed: 11am - 9pm\\Thurs - Sat: 11am - 10pm\\Sun: 11am - 8pm
+50,On the Bun,5030 Maingate Dr.,(905) 281-4440,43.630173,-79.6272213,www.onthebunburgers.com/,Mississauga,North American,$ (entree under $10),Mon-Thurs: 11:30am - 9pm\\Fri-Sat: 11:30am - 10pm\\Sun: 2:30pm - 8pm
+51,Pak Centre,2683 Lawrence Avenue E,(416) 750-4870,43.751705,-79.261438,www.pakcentre.ca/,Scarborough,South Asian,$ (entree under $10),Mon-Thurs: 12pm - 10pm\\Fri: 12pm - 11pm\\Sat: 9am - 11pm\\Sun: 9am - 10pm
+52,Kabuli Kabob,30 Karachi Drive #72 ,(905) 554-8255,43.8496084,-79.253143, ,Markham,Afghan,$ (entree under $10),Timings Not Available
+53,T-Buds Tea Lounge and Creperie,3343 Yonge St.,(647) 352-3622,43.731322,-79.4035537,www.t-buds.com/,Toronto,Fusion+North American,$$ (entree $10-20),Mon: Closed\\Tues-Thurs & Sun: 11am - 6pm\\Fri-Sat: 11am - 8pm
+54,Hakka Garden,25 Overlea Boulevard,(416) 421-8898,43.7044754,-79.3496411,www.hakkagarden.com/,Toronto,East Asian,$ (entree under $10),Mon-Thurs: 11:30am - 10:30pm\\Fri-Sat: 11:30am - 11pm\\Sun: 1pm - 10:30pm
+55,Flavors Cafe,2200 Brock Road,(905) 239-1099,43.857886,-79.080008,www.facebook.com/Flavorscafeandeatery,Pickering,Fusion+North American,$ (entree under $10),Mon-Thurs & Sun: 11am - 12am\\Fri-Sat: 11am - 2am
+56,Nirala,2818 Markham Road,(416) 291-7232,43.8214492,-79.246847, ,Scarborough,South Asian,$ (entree under $10),Timings Not Available
+57,Zem One,4555 Hurontario Street,(905) 712-1615,43.605325,-79.649408,www.zemone.com/,Mississauga,East Asian,$$ (entree $10-20),Mon-Fri: 7am - 10pm\\Sat-Sun: 11am - 10pm
+58,Big Moe's,1961 Lawrence Avenue E,(647) 351-6637,43.7442115,-79.2977234,www.bigmoes.ca/,Scarborough,North American,$ (entree under $10),Mon-Thurs: 11am - 12am\\Fri-Sat: 11am - 2:30am\\Sun: 12pm - 12am
+59,Big Moe's,3517 Kennedy Rd,(647) 340-6637,43.8229792,-79.3064069,www.bigmoes.ca/,Scarborough,North American,$ (entree under $10),Mon & Wed-Thurs: 11am - 10pm\\Tues: 11am - 11pm\\Fri-Sat: 11am - 12am\\Sun: 12pm - 9pm
+60,Milano FoodWorks,7181 Woodbine Avenue,(905) 477-0777,43.8181874,-79.3496431,www.milanofoodworks.ca/,Markham,European,$ (entree under $10),Mon-Thurs: 11am - 10pm\\Fri-Sat: 11am - 11pm\\Sun: Closed
+61,La Sani Grill,2058 Ellesmere Road,(416) 481-7866,43.7764296,-79.2348441,www.lasanigrill.ca/,Scarborough,South Asian,$$ (entree $10-20),Mon-Thurs & Sun: 11am - 10pm\\Fri-Sat: 11am - 11pm
+62,Toppings,426 Major Mackenzie Dr. E,(905) 918-8677,43.8745052,-79.424141,www.toppings.ca/,Richmond Hill,North American,$ (entree under $10),Mon: Closed\\Tues-Thurs: 11am - 9pm\\Fri-Sat: 11am - 11pm\\Sun: 1pm - 9pm
+63,Milky Lane,9631 Yonge Street Unit 2,(905) 508-5263,43.863387,-79.4353183,www.milkylane.ca/,Richmond Hill,Specialty,$ (entree under $10),Mon & Sun: 12pm - 10pm\\Tues-Thurs: 12pm - 10:30pm\\Fri-Sat: 12pm - 12:30am
+64,Continental Grand Buffet,4141 Dixie Road,(905) 212-1255,43.6255228,-79.604745,www.continentalgrandbuffet.ca/,Mississauga,Buffet,$$ (entree $10-20),Mon-Fri: 5:30pm - 9:30pm\\Sat-Sun: 11:30am - 3pm & 5:30pm - 10pm
+65,Klassic Kitchen,10220 Yonge St.,(905) 237-7186,43.8767496,-79.4386072,www.facebook.com/pages/Klassic-Kitchen/110719225709896,Richmond Hill,East African,$ (entree under $10),Mon-Wed & Thurs: 12pm - 8pm\\Thurs: Closed\\Sat-Sun: 12pm - 10:30pm
+66,Chopstick House,1780 Markham Rd.,(416) 293-9990,43.7952351,-79.2397236,www.chopstickhouse.co/,Scarborough,East Asian,$ (entree under $10),Mon-Thurs: 10:30am - 10:30pm\\Fri-Sat: 10:30am - 11pm\\Sun: 12pm - 10:30pm
+67,Restoran Malaysia,815 Major Mackenzie Dr E,(905) 508-1432,43.87575,-79.4134068,www.restoranmalaysia.com/,Richmond Hill,East Asian,$$ (entree $10-20),Mon: Closed\\Tues: 11:30am - 10pm\\Wed-Thurs: 11am-10pm\\Fri-Sat: 11am - 11pm\\Sun: 12pm - 10pm
+68,Eastern Twist,505 St Clair Avenue W,(416) 531-9305,43.6829839,-79.4187303, ,Toronto,Fusion,$ (entree under $10),Timings Not Available
+69,Affy's Premium Grill,2200 Brock Rd,(905) 239-5415,43.8573284,-79.080279,www.affysgrill.com/,Pickering,North American,$$ (entree $10-20),Mon-Thurs: 12pm - 10pm\\Fri: 12pm - 11pm\\Sat: 4pm - 11pm\\Sun: 4pm - 10pm
+70,Mushkaki,145 Rexdale Blvd,(416) 747-6874,43.7115879,-79.5668802,www.mushkaki.com/,Etobicoke,East African,$ (entree under $10),Everyday: 11:30am - 10pm
+71,Kara Mia,7690 Markham Road,(905) 201-5672,43.8534918,-79.2551317,www.karamia.ca/,Markham,Italian,$$ (entree $10-20),Mon: Closed\\Tues-Thurs: 4pm - 10pm\\Fri: 4pm - 11pm\\Sat: 2pm - 11pm\\Sun: 2pm - 10pm
+72,Burger Factory,	5130 Dixie Rd,(905) 212-1551,43.6370002,-79.6238408,www.myburgerfactory.com/,Mississauga,North American,$ (entree under $10),Mon-Thurs & Sun: 11am - 10pm\\Fri-Sat: 11am - 12am
+73,Chick Fiesta Flame Grilled Chicken and Steak,699 Markham Road,(416) 439-5300,43.761939,-79.2249385,plus.google.com/115071518772974435308/about,Scarborough,European,$$ (entree $10-20),Mon-Thurs & Sun: 11am - 10pm\\Fri-Sat: 11am - 11pm
+74,Hot Wok,7 Progress Avenue,(416) 293-5342,43.769245,-79.281767,www.hotwoktoronto.com/home-page/,Scarborough,East Asian,$ (entree under $10),Everyday: 11:30am - 11pm
+75,Sbarro,945 Gardiners Rd,(613) 384-5688,44.2567708,-76.5711738,www.sbarro.com/,Kingston,European,$ (entree under $10),Mon-Sat: 10am - 9pm\\Sun: 10am - 6pm
+76,Madina Halal Pizza & Wings,1078 Danforth Avenue,(416) 462-9000,43.6810373,-79.3354668,madinapizza.com/,Toronto,North American,$ (entree under $10),Everyday: 11am - 12am
+77,Makkah Restaurant,1020 Danforth Avenue,(416) 406-2056,43.680795,-79.336709,makkahrestaurant.com/,Toronto,South Asian,$ (entree under $10),Everyday: 11am - 11pm
+78,Licken Chicken,1028 Danforth Avenue,(416) 901-1991,43.6807982,-79.3363604,lickenchicken.ca,Toronto,North American,$ (entree under $10),Everyday: 10am - 10pm
+79,City Fried Chicken and Pizza,990 Danforth Avenue,(416) 645-1000,43.6805378,-79.337621, ,Toronto,North American,$ (entree under $10),Mon-Thurs: 11am - 11pm\\Fri-Sat: 11am - 12am\\Sun: 5pm - 11pm
+80,Chester Fried Chicken,45 Overlea Blvd,(416) 423-7810,43.7055868,-79.3466432, ,Toronto,North American,$ (entree under $10),Timings Not Available
+81,Shaheen Tika & Kabab House,747 Don Mills Rd,(416) 696-7535,43.7138375,-79.3345122,shaheentikka.ca,Toronto,South Asian,$$ (entree $10-20),Mon-Thurs: 11:30am - 11pm\\Fri: 11:30am - 12 am\\Sat: 9am - 12am\\Sun: 9am - 11pm
+82,Bamiyan Kabob,62 Overlea Blvd #3A,(416) 429-7514,43.7078479,-79.3434045,bamiyankabob.com,Toronto,South Asian,$ (entree under $10),Mon-Sat: 11am - 11pm\\Sun: 12pm - 10pm
+83,Iqbal Kebab & Sweet Centre,2 Thorncliffe Park Dr #17,(416) 425-7866,43.7061429,-79.3519141,www.iqbalkebab.com/,Toronto,South Asian,$$ (entree $10-20),Mon-Thurs: 11:30am - 10:30pm\\Fri: 11:30am - 11pm\\Sat: 8:30am - 11pm\\Sun: 8:30am - 10:30pm
+84,Affy's Grill,2283 Argentia Rd,(905) 997-7774,43.5985948,-79.747026,www.affysgrill.com,Mississauga,North American,$$ (entree $10-20),Mon-Thurs: 11:30am - 10pm\\Fri-Sat: 11:30am - 11pm\\Sun: 4pm - 10pm
+85,Alexandria Fish Restaurant,4910 Tomken Rd,(905) 232-3474,43.6253866,-79.6312907,alexandriafish.com/,Mississauga,Seafood,$$ (entree $10-20),Everyday: 2pm - 9pm
+86,California Sandwiches,10815 Yonge St,(905) 237-4703,43.8915296,-79.441264,www.californiasandwichesnorth.com/,Richmond Hill,Italian,$ (entree under $10),Mon-Thurs & Sat: 11am - 9pm\\Fri: 11am - 10pm\\Sun: Closed
+87,Chicken Squared,2983 Westoak Trails Blvd,(905) 465-0808,43.429086,-79.7648895,www.chickensquared.com,Oakville,North American+Seafood,$ (entree under $10),Mon-Fri: 11am - 9pm\\Sat: 11:30am - 9pm\\Sun: 12pm - 9pm
+88,Los Chicos Brasa,7595 Markham Rd,(905) 209-9100,43.8504507,-79.2538898,www.loschicosbrasa.com,Markham,North American,$$ (entree $10-20),Everyday: 12pm - 10pm
+89,Crave Grill House,25 Woodbine Downs Blvd #5,(416) 213-1977,43.736117,-79.6172578,cravegrillhouse.com,Toronto,North American,$$ (entree $10-20),Mon-Thurs: 11-30am - 10:30pm\\Fri: 11:30am - 11pm\\Sat: 12pm - 11pm\\Sun: 12pm - 10:30pm
+90,Darna Grill,1871 O'Connor Dr,(416) 288-0123,43.7223484,-79.302932,darnagrill.com,Toronto,Middle Eastern,$$ (entree $10-20),Mon-Fri: 10am - 10pm\\Sat-Sun: 10am - 11pm
+91,Eat More Restaurant and Cafe,5130 Dixie Rd,(905) 625-6673,43.6364285,-79.6244537,eatmorerestaurant.com,Mississauga,South Asian,$$ (entree $10-20),Mon-Thurs: 11:30am - 10:30pm\\Fri-Sun: 11:30am - 11pm
+92,Faley Restaurant,62 Overlea Blvd,(416) 423-3222,43.7082237,-79.3436047,faleyrestaurant.ca,Toronto,East Asian,$$ (entree $10-20),Mon-Thurs: 11:30am - 11pm\\Fri: 11:30am - 11:30pm\\Sat: 12pm - 11:30pm\\Sun: 1pm - 11pm
+93,Faley Restaurant,42 Rexdale Blvd,(416) 746-4948,43.7139838,-79.5586618,faleyrestaurant.ca,Etobicoke,East Asian,$$ (entree $10-20),Mon & Wed-Fri: 11:30am - 10:30pm\\Tues: Closed\\Sat: 12pm - 10:30pm\\Sun: 1pm - 10:30pm
+94,Grillin Hut,1935 Drew Rd #15,(905) 405-8383,43.689142,-79.6711999,grillinhut.ca,Mississauga,Buffet+East Asian+Middle Eastern,$$ (entree $10-20),Mon-Thurs & Sun: 11am - 10pm\\Fri-Sat: 12pm - 12am
+95,Levant Restaurant,3175 Rutherford Rd #37,(905) 738-3788,43.828078,-79.537394,levantrestaurant.ca,Vaughan,Middle Eastern,$$$ (entree $20-30),Tues-Thurs & Sun: 12pm - 10pm\\Fri-Sat: 12pm - 11pm
+96,Mr. Burrito Plus,69 Duncan St,(416) 901-4336,43.6499983,-79.3892145,mrburritoplus.ca,Toronto,North American,$ (entree under $10),Mon-Fri: 11am - 9pm\\Sat: 12pm - 9pm\\Sun: 12pm - 7pm
+97,Nowshak Restaurant,3175 Rutherford Rd #74,(905) 760-2060,43.8285372,-79.5381532,nowshak.ca,Vaughan,Afghan,$ (entree under $10),Everyday: 11am - 11pm
+98,Paramount Fine Foods,253 Yonge Street,(416) 366-3600,43.6550704,-79.3800226,www.paramountfinefoods.com/,Toronto,Middle Eastern,$$ (entree $10-20),Mon-Thurs & Sun: 8am - 10pm\\Fri-Sat: 8am - 11pm
+99,Paramount Fine Foods,1290 Crestlawn Dr,(905) 282-1600,43.631621,-79.619862,www.paramountfinefoods.com/,Mississauga,Middle Eastern,$$ (entree $10-20),Mon-Thurs & Sun: 8am - 10pm\\Fri-Sat: 8am - 11pm
+100,Paramount Fine Foods,2635 Eglinton Ave W,(905) 606-2223,43.5564326,-79.7099304,www.paramountfinefoods.com/,Mississauga,Middle Eastern,$$ (entree $10-20),Mon-Thurs & Sun: 8am - 10pm\\Fri-Sat: 8am - 11pm
+101,Paramount Fine Foods,7315 Yonge St,(905) 886-4600,43.8058484,-79.4209035,www.paramountfinefoods.com/,Thornhill,Middle Eastern,$$ (entree $10-20),Mon-Thurs & Sun: 8am - 10pm\\Fri-Sat: 8am - 11pm
+102,Paramount Fine Foods,769 Southdale Rd E,(519) 668-1800,42.9435151,-81.2158448,www.paramountfinefoods.com/,Niagara Falls,Middle Eastern,$$ (entree $10-20),Mon-Thurs & Sun: 8am - 10pm\\Fri-Sat: 8am - 11pm
+103,Partners Kitchen,1784 Jane St,(416) 333-6034,43.7062014,-79.5047947,partnerskitchen.com,Toronto,North American,$ (entree under $10),Mon-Thurs & Sun: 11:30am - 9:30pm\\Fri-Sat: 11:30am - 10:30pm
+104,Second Grill,5980 Churchill Meadows Blvd,(905) 369-0061,43.5579498,-79.7562057,secondgrillcanada.com,Mississauga,Fusion+North American+South Asian,$ (entree under $10),Mon-Thurs: 11am - 11pm\\Fri: 11am - 12am\\Sat: 10am - 12am\\Sun: 10am - 11pm
+105,Simba Grill,375 Donlands Ave,(416) 429-6057,43.6933635,-79.3424079,www.simbagrill.ca/,Toronto,East African,$$ (entree $10-20),Timings Not Available
+106,Peppercorn Steak and Seafood,2290 Markham Rd,(416) 321-9991,43.8118458,-79.2460208,peppercornsteak.ca,Toronto,North American,$$ (entree $10-20),Mon-Thurs & Sun: 11am - 10pm\\Fri-Sat: 11am - 11pm
+107,Zyka Fine Foods & BBQ,80 Nashdene Rd,(416) 297-1010,43.8190118,-79.2535109,zykabbq.com,Scarborough,North American+South Asian,$ (entree under $10),Mon-Tues: Closed\\Wed-Fri: 11:30am - 9pm\\Sat: 10am - 9pm\\Sun: 10am - 8pm
+108,Pizza Land Halal,1801 Lawrence Ave E #4,(416) 750-8111,43.7424236,-79.3053271,pizzalandhalal.com,Toronto,North American,$ (entree under $10),Mon & Wed-Thurs: 11am - 10pm\\Tues: Closed\\Fri: 11am - 11pm\\Sat: 12pm - 11pm\\Sun: 12pm - 10pm
